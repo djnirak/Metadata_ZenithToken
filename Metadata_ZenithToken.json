@@ -1,0 +1,13 @@
+{
+  "name": "Zenith",
+  "symbol": "ZTH",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/djnirak/Zenith-token/refs/heads/main/Zenith%20tokens%20280%20x%20280%20px.png",
+  "description": "Zenith (ZTH) is a token innovator on the Solana network, designed for revolutionizing the decentralized finance (DeFi) ecosystem by providing a secure, scalable, and user-friendly platform for trading, lending, and borrowing digital assets",
+  "attributes": [
+    {
+      "trait_type": "Suministro Total",
+      "value": "7000000000"
+    }
+  ]
+}
